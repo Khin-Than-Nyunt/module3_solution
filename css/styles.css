@@ -24,7 +24,6 @@ body {
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
-
 }
 
 #nav-list{
@@ -41,7 +40,6 @@ body {
 #nav-list a:hover{
   background-color: #0048BA;
   text-decoration: none;
-
 }
 /* button*/
  .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
@@ -53,8 +51,7 @@ body {
   }
 .text-center{
   color: #F2F3F4;
-  
-}
+ }
 #collapsable-nav a{
   font-size: 1.2em;
   top-margin: -200px;
@@ -66,8 +63,6 @@ body {
   margin-top: 40px;
   border: solid;
   }
-
-
 /*******************************Boot Strap Desktop View**********************************/
 @media(min-width: 1200px){
  /** HEADER **/
@@ -87,7 +82,6 @@ body {
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
-
 }
 
 #nav-list{
@@ -109,7 +103,6 @@ body {
 /* button*/
  .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
   border:1px solid #8F00FF;
-
 }
 
 .text-center{
@@ -127,7 +120,6 @@ body {
   margin-top: 40px;
   border: solid;
   }
-
 
  .container.col-lg-12{
     position: relative;
